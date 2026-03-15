@@ -5,6 +5,7 @@ body {
 .container {
     background-color: lightsalmon;
     display: flex;
+    flex-direction: column;
 }
 
 .intem {
